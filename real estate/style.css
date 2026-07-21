@@ -52,11 +52,11 @@
     display: flex;
     gap: 30px;
     list-style-type: none;
-    margin-left: 0;
+    margin-left: 144px;
     line-height: 42px;
     margin-top: -43px;
     margin-right: -17px;
-    font-size: 28px;
+    font-size: 18px;
 }
 .about1 li a{
     color: white;
