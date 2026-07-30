@@ -24,7 +24,7 @@
     display: flex;
     gap: 10px;
     list-style: none;
-    margin-left: 6px;
+    margin-left: -1px;
     line-height: 40px;
     margin-bottom: -5px;
     color: aliceblue;
@@ -33,14 +33,14 @@
  display: flex;
     gap: 10px;
     list-style: none;
-    margin-left: 113px;
+    margin-left: 121px;
     line-height: 19px;
-    margin-top: -25px;
+    margin-top: -27px;
     color: #da910b;
 }
 .logo1 p{
     list-style: none;
-    margin-left: 10px;
+    margin-left: 0px;
     line-height: 8px;
     font-size: 16px;
     color: aliceblue;
@@ -59,7 +59,7 @@
     display: flex;
     gap: 30px;
     list-style-type: none;
-    margin-left: 144px;
+    margin-left: 129px;
     line-height: 42px;
     margin-top: -43px;
     margin-right: -17px;
@@ -94,7 +94,7 @@
     background-color: #da910b;
     width: 160px;
     border-color: #da910b;
-    margin-left: -207px;
+    margin-left: -190px;
     border-radius: 10px;
     padding: 13px;
     margin-top: 23px;
@@ -124,7 +124,7 @@
 .find p{
     text-decoration: none;
     color: black;
-    margin-left: 78px;
+    margin-left: 57px;
     font-size: 27px;
 }
 #dream{
@@ -248,7 +248,7 @@
     font-weight:700;
     text-align: center;
     display: flex;
-    margin-left: 641px;
+    margin-left: 390px;
     margin-top: -29px;
 }
 .left p{
